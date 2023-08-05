@@ -1,0 +1,33 @@
+.page_link{
+	padding: 30px 0 0 0;
+	font-size: 30px;
+}
+.page_list{
+}
+.page_list ul li a{
+	color: deeppink;
+	padding: 0 30px !important;
+}
+.page_list ul li a:hover{
+	background-color: deeppink;
+	color: black;
+}
+.c_padd{
+	padding-top: 130px;
+}
+.ani_item{
+	padding: 50px 70px; 
+	width: 640px; 
+	height: 320px;
+	background-color: rgba(0, 0, 0, .7);
+}
+.num{
+	font-size: 48px;
+	font-family: 'Orbitron';
+	margin: 30px auto;
+	display: block;
+	color: white !important;
+	border: none;
+	background-color: rgba(255, 0, 0, .6);
+}
+

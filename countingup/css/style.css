@@ -1,0 +1,13 @@
+.counterup{
+	background-color: pink;
+}
+.count_text{
+	padding: 30px 15px;
+}
+.up_item{
+	margin-top: 150px;
+	padding: 60px 15px;
+}
+.up_item h2 span{
+	font-size: 60px;
+}
